@@ -38,7 +38,7 @@ body {
     width: 100%;
 }
 
-.header .menu-container {
+.header .menu-contenedor {
     display: inline-flex;
     flex-direction: column;
     justify-content: space-around;
@@ -206,7 +206,7 @@ h1 .tachado {
     bottom: 0;
     right: 0;
     margin-top: 5%;
-    height: 110%;
+    height: 95%;
     background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
     transform: skewY(-6deg);
     z-index: -1;
@@ -233,23 +233,26 @@ h1 .tachado {
 }
 .podcast1 {
     width: 93.13%;
-    height: 220px;
+    height: 400px;
     align-self: center;
     border: 0;
 }
 .podcast2 {
-    width: 93.13%;
-    height: 220px;
+    width: 93.13%;    
+    height: 400px;
+    margin-top: -150px;
     border: 0;
 }
 .podcast3 {
     width: 93.13%;
-    height: 220px;
+    height: 400px;
+    margin-top: -150px;
     border: 0;
 }
 .podcast4 {
     width: 93.13%;
-    height: 220px;
+    height: 400px;
+    margin-top: -150px;
     border: 0;
 }
 
@@ -258,7 +261,7 @@ h1 .tachado {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: 48px;
+    margin-top: -120px;
     width: 100%;
 }
 
@@ -480,7 +483,7 @@ footer ul li a:visited{
         margin-right: 7%
     }
 
-    .header .menu-container {
+    .header .menu-contenedor {
         display: inline-flex;
         flex-direction: row;
         justify-content: flex-end;
@@ -572,7 +575,6 @@ footer ul li a:visited{
         width: 100%;
         position: relative;
         margin-top: 24px;
-        
     }
 
     .ep-fondo{
@@ -582,7 +584,7 @@ footer ul li a:visited{
         bottom: 0;
         right: 0;
         margin-top: 5%;
-        height: 110%;
+        height: 80%;
         background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
         transform: skewY(-6deg);
         z-index: -1;
@@ -593,7 +595,7 @@ footer ul li a:visited{
         position: relative;
         margin-top: 13.2%;
         margin-left: 14%;
-        margin-bottom: 30px;
+        margin-bottom: 40px;
         font-size: 48px;
         color: #FFFFFF;
         letter-spacing: 0;
@@ -607,26 +609,29 @@ footer ul li a:visited{
     }
     .podcast1 {
         width: 40.59%;
-        height: 210px;
+        height: 32em;
         margin-left: 6.9%;
         margin-right: 3.9%;
         margin-bottom: 5%;
     }
     .podcast2 {
         width: 40.59%;
-        height: 210px;
+        height: 32em;
+        margin-top: 0px;
         margin-bottom: 5%;
     }
     .podcast3 {
-        width: 40.59%;
-        height: 210px;
+        width: 40.59%;        
+        height: 32em;
+        margin-top: -270px;
         margin-bottom: 24px;
         margin-left: 6.9%;
         margin-right: 4%;
     }
     .podcast4{
         width: 40.59%;
-        height: 210px;
+        height: 32em;
+        margin-top: -270px;
         margin-bottom: 24px;
     }
 
@@ -636,7 +641,7 @@ footer ul li a:visited{
         flex-direction: row ;
         justify-content: space-evenly;
         align-items: center;
-        margin-top: 55px;
+        margin-top: -225px;
         width: 100%;
     }
 
@@ -645,7 +650,7 @@ footer ul li a:visited{
         flex-direction: column;
         align-content: center;
         margin-left: 2%;
-        margin-top: 5%;
+        margin-top: 1%;
     }
     .venimos-texto h2 {
         font-family: 'IBM Plex Sans', sans-serif;
@@ -664,7 +669,7 @@ footer ul li a:visited{
         letter-spacing: 0;
         line-height: 24px;
         font-weight: 500;
-        width: 70%;
+        width: 80%;
         margin-bottom: 10px;
     }
 
@@ -848,7 +853,7 @@ footer ul li a:visited{
         margin-right: 7%
     }
 
-    .header .menu-container {
+    .header .menu-contenedor {
         display: inline-flex;
         flex-direction: row;
         justify-content: flex-end;
@@ -939,8 +944,7 @@ footer ul li a:visited{
         flex-direction: column;
         width: 100%;
         position: relative;
-        margin-top: 24px;
-        
+        margin-top: 24px; 
     }
 
     .ep-fondo{
@@ -950,7 +954,7 @@ footer ul li a:visited{
         bottom: 0;
         right: 0;
         margin-top: 5%;
-        height: 110%;
+        height: 68%;
         background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
         transform: skewY(-6deg);
         z-index: -1;
@@ -975,27 +979,29 @@ footer ul li a:visited{
     }
     .podcast1 {
         width: 40.59%;
-        height: 210px;
+        height: 45em;
         margin-bottom: 72px;
         margin-right: 72px;
         margin-left: 6.9%;
     }
     .podcast2 {
-        width: 40.59%;
-        height: 210px;
+        width: 40.59%;        
+         height: 45em;
         margin-bottom: 72px;
         margin-right: 72px;
     }
     .podcast3 {
         width: 40.59%;
-        height: 210px;
+        height: 45em;
+        margin-top: -475px;
         margin-bottom: 24px;
         margin-right: 72px;
         margin-left: 6.9%;
     }
     .podcast4{
         width: 40.59%;
-        height: 210px;
+        height: 45em;
+        margin-top: -475px;
         margin-bottom: 24px;
         margin-right: 6.9%;
     }
@@ -1006,7 +1012,7 @@ footer ul li a:visited{
         flex-direction: row ;
         justify-content: space-evenly;
         align-items: center;
-        margin-top: 55px;
+        margin-top: -430px;
         width: 100%;
     }
 
