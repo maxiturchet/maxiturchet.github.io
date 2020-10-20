@@ -449,8 +449,8 @@ footer ul {
     justify-content: space-evenly;
     margin-bottom: 31px;
 }
-footer ul li a:visited{
-    color: #000000;
+footer ul li a{
+    color: #060A24;
 }
 
 
