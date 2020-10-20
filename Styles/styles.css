@@ -240,18 +240,21 @@ h1 .tachado {
 .podcast2 {
     width: 93.13%;    
     height: 400px;
+    align-self: center;
     margin-top: -150px;
     border: 0;
 }
 .podcast3 {
     width: 93.13%;
     height: 400px;
+    align-self: center;
     margin-top: -150px;
     border: 0;
 }
 .podcast4 {
     width: 93.13%;
     height: 400px;
+    align-self: center;
     margin-top: -150px;
     border: 0;
 }
