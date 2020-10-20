@@ -228,7 +228,7 @@ h1 .tachado {
 .podcast-contenedor{
     display: inline-flex;
     flex-flow: column wrap;   
-    align-content: center;;
+    align-content: center;
     width: 100%;
 }
 .podcast1 {
